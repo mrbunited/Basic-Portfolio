@@ -1,0 +1,66 @@
+body{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background: #ffffff;
+    color:#777777;
+    float:left;
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete_seamless.png");
+    width: 960px;
+}
+
+#nametag{
+    float:left;
+    margin:10px;
+    color:#777777;
+    background: #ffffff;
+    border-color: #cccccc;
+    
+}
+
+li {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background: #df1717;
+    color:#777777;
+    float: right;
+    display:inline;
+    
+}
+
+.nav-wrapper {
+  margin: 0, 0, 0, 0;
+  padding: 40px;
+  background: #ffffff;
+  border-style:solid;
+  border-color: red;
+  position:relative;
+}
+img {
+    float:left;
+    margin: 10px;
+    display:block;
+}
+
+li a {
+    display: block;
+    color: rgb(68, 9, 9);
+    text-align: center;
+    padding: 14px 16px;
+}
+
+li a:hover {
+    background-color:  rgba(42, 218, 165, 0.568);
+}
+
+footer{
+    clear: both;
+    padding:10px;
+    background: #666666;
+    border-top: 7px solid rgba(42, 218, 165, 0.568);
+    text-align: center;
+}
+
+#main{
+    display: block;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+}
