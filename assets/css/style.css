@@ -20,7 +20,6 @@ body{
 
 li {
     font-family: 'Georgia', Times, Times New Roman, serif;
-    background: #df1717;
     color:#777777;
     float: right;
     display:inline;
@@ -61,10 +60,10 @@ footer{
 
 #main{
     display: block;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin: 20px 100px 20px 100px;
     text-align: justify;
-    border: solid 5px;
+    background: #ffffff;
+    position: relative;
 }
 
 img {
@@ -78,10 +77,12 @@ img {
 }
 
 div  {
-  margin: 30px;
+  margin: 20px 30px 20px 30px;
+  padding-bottom: 15px;
   }
   
 #header{
+  padding: 10px 0 0 30px;
   color:rgba(42, 218, 165, 0.568);
   }
   
